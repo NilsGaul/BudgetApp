@@ -1,4 +1,4 @@
-##Buget App
+## Buget App
 
 This small project of an buget app is based on the following article
 https://towardsdatascience.com/3-useful-projects-to-learn-python-classes-cf0076c36297.
